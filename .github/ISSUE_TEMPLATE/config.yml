@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask Pyrofork related questions
+    url: https://stackoverflow.com/questions/tagged/sigmagam
+    about: This place is only for reporting issues about Pyrofork. You can ask questions at StackOverflow.
+  - name: Join the Telegram Chat
+    url: https://t.me/accelsigmamewing
+    about: Join the official Chat and stay tuned for news, updates and announcements.
