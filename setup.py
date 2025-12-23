@@ -38,14 +38,14 @@ if len(argv) > 1 and argv[1] in ["bdist_wheel", "install", "develop"]:
     errors_compiler.start()
 
 setup(
-    name="AccelGram",
+    name="pyrogram",
     version=version,
     description="Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
     long_description=readme,
     long_description_content_type="text/markdown",
     url="https://github.com/sigmagam/accelgram",
     download_url="https://github.com/sigmagam/accelgram/releases/latest",
-    author="NavyCode",
+    author="AccelPedia",
     author_email="ovansevfarel@gmail.com",
     license="LGPLv3",
     classifiers=[
